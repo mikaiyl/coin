@@ -1,0 +1,23 @@
+/* Globals */
+
+img [dataset-state='H'] {
+}
+
+img [dataset-state='T'] {
+}
+
+/* Identified */
+
+#container {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#content {
+    align-self: center;
+    align-content: center;
+
+}
+
+
+/* Others */
