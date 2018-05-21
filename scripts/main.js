@@ -23,8 +23,8 @@ coin = {
         let img = document.createElement("img")
         // set the properties of the image element to show either heads or tails
         //
-        img.height = "100px"
-        img.width = "100px"
+        img.style.height = "100px"
+        img.style.width = "100px"
         img.src = this.src
         return img;
     }
